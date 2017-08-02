@@ -1,0 +1,10 @@
+funcion getUser (id: entero): string
+
+segun id hacer
+1: getUser="a"
+2: getUser="b"
+3: getUser="c"
+fin segun
+
+fin funcion
+
