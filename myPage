@@ -4,6 +4,7 @@ segun id hacer
 1: getUser="a"
 2: getUser="b"
 3: getUser="c"
+4: getUser="d"
 fin segun
 
 fin funcion
